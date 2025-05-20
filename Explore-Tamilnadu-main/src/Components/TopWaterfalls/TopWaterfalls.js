@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { FaPersonWalkingArrowRight } from "react-icons/fa6";
 import { useContext } from 'react';
 import { MyContext } from "../Context/Context";
